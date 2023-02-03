@@ -13,4 +13,4 @@ jobs:
         - name: ShellCheck
           uses: ludeeus/action-shellcheck@2.0.0
           with:
-             scandir: './srv_fai_config/scripts/SEAPATH'
+             scandir: 'build_debian_iso/srv_fai_config/scripts/SEAPATH'
