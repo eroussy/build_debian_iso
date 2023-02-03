@@ -24,5 +24,6 @@ if [ -n "$usernameansible" ]; then
 	echo "WARNING. Package sudo is not installed"
     fi
 fi
+bah
 
 exit $error
